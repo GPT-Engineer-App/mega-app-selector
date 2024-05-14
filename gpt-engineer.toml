@@ -8,3 +8,6 @@ build = "npm run build"
 
 [gptengineer-app]
 project_id = "a6cacb5c-29a8-479c-9357-f4231397733a"
+
+[[gptengineer-app.openapi]]
+url = "https://echoing-swagger.oss-cn-shanghai.aliyuncs.com/tams/tams_api.swagger.online.json"
